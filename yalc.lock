@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "zemit-sdk": {
+      "signature": "0ad175ade782978ce0c775ff6b9ed79f",
+      "file": true
+    }
+  }
+}

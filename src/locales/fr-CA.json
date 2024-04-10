@@ -1,0 +1,17 @@
+{
+	"zemit": "Zemit",
+	"validation.failed.form.title": "Erreur de soumission du formulaire",
+	"validation.failed.form.description": "Veuillez revoir vos saisies. Assurez-vous que tous les champs obligatoires sont correctement remplis",
+	"validation.failed.required": "Ce champ est obligatoire",
+	"validation.failed.email": "Veuillez entrer une adresse courriel valide",
+	"error.request.title": "Erreur de requête du formulaire",
+	"error.request.description": "Une erreur inconnue a été retournée par le serveur. Veuillez réessayer.",
+	"error.login.title": "Échec de la connexion",
+	"error.login.description": "Veuillez vérifier vos identifiants et réessayer.",
+	"btn.login": "Connexion",
+	"btn.forgotPassword": "Mot de passe oublié",
+	"label.email": "Courriel",
+	"label.password": "Mot de passe",
+	"footer.copyright": "Droit d'auteur © {year} {name} Tous droits réservés.",
+	"footer.version": "Version {version}"
+}
